@@ -1,3 +1,5 @@
+# sobre mim!
+
 - 👋 Oi, eu sou a @tamiresfragoso
 - 👀 Eu estou interessada em aprender progamação 
 - 🌱 Atualmente estou aprendendo computação
