@@ -1,6 +1,6 @@
 # sobre mim!
 
-- 👋 Oi, eu sou a @tamiresfragoso
+- 👋 Oi, eu sou a tamires
 - 👀 Eu estou interessada em aprender progamação 
 - 🌱 Atualmente estou aprendendo computação
 - 📫 Como chegar até a mim: @tamires.fragoso.904
